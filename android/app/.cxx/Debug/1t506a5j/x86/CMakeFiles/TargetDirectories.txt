@@ -1,0 +1,2 @@
+D:/CodeMe/randemuser/android/app/.cxx/Debug/1t506a5j/x86/CMakeFiles/edit_cache.dir
+D:/CodeMe/randemuser/android/app/.cxx/Debug/1t506a5j/x86/CMakeFiles/rebuild_cache.dir
